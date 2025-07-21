@@ -18,19 +18,26 @@ Soy **Ilce Yiribet Rosel Bernal**, desarrolladora frontend apasionada por crear 
 
 **Lenguajes:** Java · JavaScript · SQL  
 **Frameworks & Librerías:** Spring Boot · React  
-**Herramientas & Plataformas:** Git · Postman · Docker
+**Herramientas & Plataformas:** Git · Postman 
 
 <br>
 
 | Frontend | Backend |
 |:--------:|:-------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/> |
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=YIRIBET&layout=compact&theme=light)
+
+---
+
+<!-- GitHub Stats -->
+![Ilce's GitHub stats](https://github-readme-stats.vercel.app/api?username=YIRIBET&show_icons=true&theme=light)
+
 ---
 
 ✨ *“Cada línea de código es una oportunidad para crear algo increíble.”*  
 
-<!-- Si quieres agregar redes, quita los comentarios de abajo
+---
 ### 📬 Contáctame
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Visítame-ffb6c1?style=flat&logo=linkedin&logoColor=white)](TU_LINKEDIN_AQUÍ)
-[![Correo Badge](https://img.shields.io/badge/Email-Escríbeme-ffc0cb?style=flat&logo=gmail&logoColor=white)](mailto:TU_CORREO_AQUI)
--->
+
+[![Correo electrónico](https://img.shields.io/badge/Email-Escríbeme-ff69b4?style=flat&logo=gmail&logoColor=white)](mailto:roselyiribet@gmail.com)
