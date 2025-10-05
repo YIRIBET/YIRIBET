@@ -1,43 +1,66 @@
-<!-- Encabezado lindo -->
-## ¡Hola! 👋✨
+<!-- Encabezado con estilo -->
+<h1 align="center">🌸 ¡Hola! Soy <b>Ilce Yiribet Rosel Bernal</b> 👋</h1>
 
-Soy **Ilce Yiribet Rosel Bernal**, desarrolladora frontend apasionada por crear experiencias digitales **atractivas, accesibles y funcionales**. Tengo experiencia en **Java, Spring Boot, React** y bases de datos. Me encanta seguir aprendiendo y colaborar en proyectos donde la tecnología genere impacto real. 💖
-
----
-
-### 🚀 Sobre mí
-- 🌸 **Aprendizaje constante:** Siempre explorando nuevas herramientas y buenas prácticas.
-- 🎓 **Formación:** Estudiante de **Ing. en Desarrollo y Gestión de Software**.
-- 💻 **Intereses:** Desarrollo **web y móvil** (sí, también me llama React Native ✨).
-- ⚡ **Tecnologías favoritas:** React para interfaces dinámicas; Spring Boot para APIs sólidas.
-- 💼 **Objetivo:** Participar en **proyectos reales** que me reten y aporten valor.
+<p align="center">
+📍 <b>Emiliano Zapata, Morelos, México</b> <br>
+🎓 Estudiante de <b>Desarrollo de Software</b> | 10º Cuatrimestre <br>
+💻 <b>Desarrolladora Frontend</b> apasionada por crear experiencias digitales <b>atractivas, accesibles y funcionales</b>.
+</p>
 
 ---
 
-### 🔧 Tecnologías que uso
+## ✨ Sobre mí  
 
-**Lenguajes:** Java · JavaScript · SQL  
-**Frameworks & Librerías:** Spring Boot · React  
-**Herramientas & Plataformas:** Git · Postman 
+🌷 Me encanta diseñar y desarrollar soluciones que conecten tecnología con personas.  
+Tengo experiencia con **Java**, **Spring Boot**, **React** y **bases de datos**.  
+Busco seguir aprendiendo, colaborar en equipo y crear proyectos que **generen impacto real**.  
 
-<br>
+---
+
+## 🚀 Más sobre mí  
+
+💡 **Aprendizaje constante:** Siempre explorando nuevas herramientas, lenguajes y buenas prácticas.  
+🎓 **Formación:** Estudiante de <b>Ingeniería en Desarrollo y Gestión de Software</b>.  
+💻 **Intereses:** Desarrollo <b>web y móvil</b>, combinando frontend atractivo con backend funcional.  
+⚡ **Tecnologías favoritas:** <b>React</b> para crear interfaces dinámicas y <b>Spring Boot / Node.js</b> para construir APIs sólidas.  
+💼 **Objetivo:** Formar parte de proyectos reales que representen un desafío y aporten valor al entorno tecnológico.  
+
+---
+
+## 🛠️ Tecnologías y herramientas  
+
+#### 🖥️ Lenguajes  
+`Java` · `JavaScript` · `SQL`  
+
+#### 🧩 Frameworks y Librerías  
+`Spring Boot` · `React`  
+
+#### ⚙️ Herramientas y Plataformas  
+`Git` · `Postman` · `GitHub`  
+
+---
+
+## 💻 Stack principal  
 
 | Frontend | Backend |
 |:--------:|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/> |
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=YIRIBET&layout=compact&theme=light)
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/> |
 
 ---
 
-<!-- GitHub Stats -->
-![Ilce's GitHub stats](https://github-readme-stats.vercel.app/api?username=YIRIBET&show_icons=true&theme=light)
+## 📊 GitHub Stats  
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=YIRIBET&show_icons=true&theme=rose_pine&border_radius=15&hide_title=true" alt="Ilce's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIRIBET&layout=compact&theme=rose_pine&border_radius=15" alt="Top Lenguajes" height="160"/>
+</div>
 
 ---
 
-✨ *“Cada línea de código es una oportunidad para crear algo increíble.”*  
+## 📬 Contáctame  
 
----
-### 📬 Contáctame
-
-[![Correo electrónico](https://img.shields.io/badge/Email-Escríbeme-ff69b4?style=flat&logo=gmail&logoColor=white)](mailto:roselyiribet@gmail.com)
+<p align="center">
+  <a href="mailto:roselyiribet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-roselyiribet@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
